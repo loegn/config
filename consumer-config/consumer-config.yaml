@@ -2,3 +2,8 @@ profile: default
 default: test
 neo:
   hello: hello im default from consumer config
+
+---
+profile: yaml
+neo:
+  hello: hello im yaml from consumer config
