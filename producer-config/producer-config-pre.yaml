@@ -1,2 +1,3 @@
-profile=pre
-neo.hello=hello im pre
+profile: pre
+neo:
+  hello: hello im pre from producer config

@@ -1,0 +1,3 @@
+profile: pre
+neo:
+  hello: hello im pre from consumer config

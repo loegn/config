@@ -1,0 +1,3 @@
+profile: test
+neo:
+  hello: hello im test from consumer config

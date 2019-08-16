@@ -1,2 +1,3 @@
-profile=default
-neo.hello=hello im default
+profile: dev
+neo:
+  hello: hello im dev from producer config

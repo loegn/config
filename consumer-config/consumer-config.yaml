@@ -1,0 +1,3 @@
+profile: default
+neo:
+  hello: hello im default from consumer config
