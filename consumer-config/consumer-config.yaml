@@ -1,3 +1,4 @@
 profile: default
+default: test
 neo:
   hello: hello im default from consumer config
